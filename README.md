@@ -191,3 +191,35 @@
 - GitHub: `https://github.com/ShionCox/SillyTavern-SS-Helper`
 - 作者: `Shion`
 
+## 许可证
+
+本项目采用 `Apache License 2.0`。
+
+这意味着你可以使用、修改和分发这个插件，但在分发原始版本或修改版本时，至少需要遵守这些要求：
+
+- 保留原项目的许可证文本
+- 保留原作者版权和出处说明
+- 保留 `NOTICE` 文件中的署名信息
+- 对你修改过的文件添加显著说明，标明该文件已被修改
+
+仓库中已包含：
+
+- `LICENSE`
+- `LICENSE.zh-CN`
+- `NOTICE`
+
+其中：
+
+- `LICENSE` 是英文正式许可证文本，也是具有法律效力的权威版本
+- `LICENSE.zh-CN` 是中文说明版，仅供理解参考
+- `NOTICE` 提供项目署名与出处说明，已写成中英双语
+
+如果你基于本项目发布修改版，建议在你改动过的文件头部加入类似说明：
+
+```text
+Modified by <your name> on YYYY-MM-DD.
+Based on SS-Helper [骰子助手] by Shion.
+Licensed under the Apache License 2.0.
+```
+
+如果你更习惯看中文，可以先阅读 `LICENSE.zh-CN`；但在发布、分发和处理许可证争议时，仍应以英文版 `LICENSE` 为准。
